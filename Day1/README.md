@@ -9,7 +9,7 @@ To run an application, you must purchase computing, storage, and hardware. Cloud
 <img src="https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/d3e3c678-760f-4b3f-bc31-2817634d1de6" alt="image" width=300 height=300 >
 
 
-
+what is latha?
 **Cloud Computing aims at**
 
 
